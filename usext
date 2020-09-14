@@ -32,8 +32,8 @@ xkb_symbols "basic" {
 
 	key <AC01> { [ a,				A,				aacute,			Aacute					] };
 	key <AC02> { [ s,				S				] };
-	key <AC03> { [ d,				D				] };
-	key <AC04> { [ f,				F				] };
+	key <AC03> { [ d,				D,				U2193,			U2191					] };
+	key <AC04> { [ f,				F,				U2192,			U2190					] };
 	key <AC05> { [ g,				G,				U263A			] };
 	key <AC06> { [ h,				H				] };
 	key <AC07> { [ j,				J				] };
